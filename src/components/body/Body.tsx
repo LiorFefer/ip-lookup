@@ -5,7 +5,7 @@ import { ContentContainer } from "../../ui-components";
 import styled from "styled-components";
 
 const Container = styled(ContentContainer)`
-  min-height: 1px;
+  min-height: 100px;
   flex: 1 1 auto;
   display: flex;
   flex-direction: column;

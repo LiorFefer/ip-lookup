@@ -13,3 +13,7 @@ Please follow these steps to run the project locally
 4. Create awsome features.
 5. Run build `yarn build`.
 6. Deploy 🥳
+
+
+## TODO
+Todo list can be found [here](./TODO.md).
